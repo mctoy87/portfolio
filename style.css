@@ -1,0 +1,21 @@
+body {
+    background-color: #050404;
+    color: #ffffff;
+}
+
+a {
+    color: #ffffff;
+}
+
+.button-delivery {
+    background-color: #050404;
+    background-image: url(image/search-icon.svg);
+    width: 32px;
+    height: 32px;
+}
+
+.welcome-wrap {
+    background-image: url(image/kate_leo.jpg);
+    width: 1180px;
+    height: 780px;
+}
